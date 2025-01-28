@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "title": "Bareilly ki barfi ",
+      "director": "AayushMaan",
+      "year": "2020",
+      "id": "563c"
+    },
+    {
+      "title": "Marco",
+      "director": "Chrishda",
+      "year": "2025",
+      "id": "cf81"
+    },
+    {
+      "id": "c8f8",
+      "title": "Leo",
+      "director": "Thalapathy",
+      "year": "2023"
+    },
+    {
+      "id": "50d3",
+      "title": "Lakshmi",
+      "director": "Suresh",
+      "year": "2001"
+    },
+    {
+      "id": "265c",
+      "title": "Chandu Champion",
+      "director": "Karthik",
+      "year": "2024"
+    }
+  ]
+}
